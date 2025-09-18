@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.Python
+*.db
+*.sqlite3
+.DS_Store
+.env
+.env.*
+.history
+.git
+.gitignore

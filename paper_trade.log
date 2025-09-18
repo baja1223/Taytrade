@@ -1,0 +1,4 @@
+2025-09-10 00:12:13 - Error connecting to Binance: APIError(code=0): Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+2025-09-10 00:20:28 - --- Starting New Paper Trading Session ---
+2025-09-10 00:20:28 - Parameters: Start Balance=$10000.0, ATR TP=2.5x, SL=1.5x, Fee=0.075%, Slippage=0.02%
+2025-09-10 00:20:28 - An error occurred in the main loop: APIError(code=0): Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
