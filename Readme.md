@@ -146,3 +146,15 @@ The interactive API documentation (via Swagger UI) is available at `http://127.0
 ## Disclaimer
 
 **This project is for educational purposes only and is not financial advice.** The predictions from this model are not guaranteed to be accurate. Trading cryptocurrencies involves significant risk, and you should never trade with money you cannot afford to lose. The author is not responsible for any financial losses incurred by using this software.
+\n## Running commands\n\nUse src scripts, e.g.\n\n- Train (intraday): \n- Backtest: \n- Daily model: \n
+
+## Running commands (src/ layout)
+
+Use the  scripts so imports resolve cleanly:
+
+- Train (intraday): 
+- Backtest (tuning 2–5% TP): 
+- Daily gating model: 
+- Monthly tuning: 
+- Aggregate: 
+- Orchestrator: 
